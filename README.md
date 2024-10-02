@@ -31,7 +31,7 @@
 ## Normalização de Valores
 - Uma técnica para ajsutar a escala dos valores das variáveis
 - Coloca os dados em uma faixa específica (ex.: [0, 1]), usada quando é necessário garantir que todas as variáveis tenham o mesmo peso.
-- Melhor para modelos baseados em distâncias.
+- Melhor para modelos baseados em distâncias(KNN, Redes Neurais).
 ## LabelEncoder
 
 ## OneHotEnconder
