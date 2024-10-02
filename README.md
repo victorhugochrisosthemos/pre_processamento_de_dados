@@ -18,6 +18,9 @@
         - Ordinais: valores com ordenação como tamanho da camisa(P, M e G)
 
 ## Outliers
+- Outliers são dados que se diferenciam drasticamente de todos os outros.
+- É um valor que foge da normalidade e que pode causar anomalias nos resultados obtidos por meio de algoritmos.
+- Um exemplo é a altura de um grupo de pessoas, se a maioria das alturas variam entre 1,60 e 1,80 metros, a medida de uma pessoa com 2,50m é um outlier, que está muito fora do padrão normal do grupo.
 
 ## Escalonamento de Valores / Normalização do Dataset
 
