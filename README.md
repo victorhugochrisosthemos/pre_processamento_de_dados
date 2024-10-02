@@ -36,9 +36,9 @@
 ## LabelEncoder
 - Técnica para transformar valores categóricos em número
 - Exemplo: tamanho de camisa em pequeno, médio e grande. Com o LabelEncoderfica assim:
-        - Pequeno → 0
-        - Médio → 1
-        - Grande → 2
+    - Pequeno → 0
+    - Médio → 1
+    - Grande → 2
 ## OneHotEnconder
 - Técnica usada para converter valore categóricos nominais em representação numérica.
 - O OneHotEncoder evita que o modelo aprenda uma "hierarquia inexistente" entre os valores nominais.
