@@ -22,12 +22,16 @@
 - É um valor que foge da normalidade e que pode causar anomalias nos resultados obtidos por meio de algoritmos.
 - Um exemplo é a altura de um grupo de pessoas, se a maioria das alturas variam entre 1,60 e 1,80 metros, a medida de uma pessoa com 2,50m é um outlier, que está muito fora do padrão normal do grupo.
 
-## Escalonamento de Valores / Normalização do Dataset
+## Escalonamento/Padronização de Valores
+![image](https://github.com/user-attachments/assets/875a99a6-8142-4e34-850d-81c79bb49a50)
 
-## Padronização
-
-## Normalização
-
+- Uma técnica para ajsutar a escala dos valores das variáveis
+- A padronização transforma as variáveis para que tenham uma média de 0 e desvio-padrão de 1, tornando-as comparáveis, mesmo que tenha escalas muito diferentes.
+- Melhor para modelos lineares.
+## Normalização de Valores
+- Uma técnica para ajsutar a escala dos valores das variáveis
+- Coloca os dados em uma faixa específica (ex.: [0, 1]), usada quando é necessário garantir que todas as variáveis tenham o mesmo peso.
+- Melhor para modelos baseados em distâncias.
 ## LabelEncoder
 
 ## OneHotEnconder
