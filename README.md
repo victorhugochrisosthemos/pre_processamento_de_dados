@@ -8,6 +8,14 @@
     - Tendência de pagamento de empréstimo
 
 ## Tipos de Dados
+- O primeiro cuidado a ser considerado é sobre o tipo de variáveis que possuímos
+- Classificações:
+      - Numéricas: possui números
+          - Contínuas(float): valores do conjunto dos reais como idade, altura, peso
+      - Discretas(int): valores do conjunto dos inteiros como quantidade de matérias na faculdade
+      - Categóricas: possui letras
+          - Nominais: valores não mensuráveis como gênero, cor dos cabelos
+          - Ordinais: valores com ordenação como tamanho da camisa(P, M e G)
 
 ## Outliers
 
