@@ -1,5 +1,6 @@
 # Pré-processamento de Dados para Aplicação em Algoritmos de Machine Learning
 - Estudo sobre maneiras de lidar com os dados antes de realizar o aprendizado de máquina<br>
+- Aulas do Doutor Jones Granatyr<br>
 - Utilizado como exercício duas bases de dados
     - credit_data.csv
     - census.csv
