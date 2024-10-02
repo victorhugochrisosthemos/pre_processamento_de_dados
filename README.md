@@ -34,6 +34,14 @@
 - Coloca os dados em uma faixa específica (ex.: [0, 1]), usada quando é necessário garantir que todas as variáveis tenham o mesmo peso.
 - Melhor para modelos baseados em distâncias(KNN, Redes Neurais).
 ## LabelEncoder
-
+- Técnica para transformar valores categóricos em número
+- Exemplo: tamanho de camisa em pequeno, médio e grande. Com o LabelEncoderfica assim:
+        - Pequeno → 0
+        - Médio → 1
+        - Grande → 2
 ## OneHotEnconder
-
+- Técnica usada para converter valore categóricos nominais em representação numérica.
+- O OneHotEncoder evita que o modelo aprenda uma "hierarquia inexistente" entre os valores nominais.
+- Um exemplo, ao considerar os possíveis valores entre 0, 1 e 2, é possível que o algoritmo entenda que a classe 2 é “maior” ou “mais importante” que a classe 1, interferindo negativamente na aprendizagem.
+- Cada valor de uma variável categórica vira várias colunas binárias, para um valor na matrix somente uma das colunas será preenchido.
+  
