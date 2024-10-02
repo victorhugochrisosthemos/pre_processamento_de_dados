@@ -30,6 +30,8 @@
 - A padronização transforma as variáveis para que tenham uma média de 0 e desvio-padrão de 1, tornando-as comparáveis, mesmo que tenha escalas muito diferentes.
 - Melhor para modelos lineares.
 ## Normalização de Valores
+![image](https://github.com/user-attachments/assets/3a04f1be-fe3d-4bd0-a12a-1275e67a3f5f)
+
 - Uma técnica para ajsutar a escala dos valores das variáveis
 - Coloca os dados em uma faixa específica (ex.: [0, 1]), usada quando é necessário garantir que todas as variáveis tenham o mesmo peso.
 - Melhor para modelos baseados em distâncias(KNN, Redes Neurais).
