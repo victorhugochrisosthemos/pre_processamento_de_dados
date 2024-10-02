@@ -9,13 +9,13 @@
 
 ## Tipos de Dados
 - O primeiro cuidado a ser considerado é sobre o tipo de variáveis que possuímos
-- Classificações:
-      - Numéricas: possui números
-          - Contínuas(float): valores do conjunto dos reais como idade, altura, peso
-      - Discretas(int): valores do conjunto dos inteiros como quantidade de matérias na faculdade
-      - Categóricas: possui letras
-          - Nominais: valores não mensuráveis como gênero, cor dos cabelos
-          - Ordinais: valores com ordenação como tamanho da camisa(P, M e G)
+- Classificações:<br>
+      - Numéricas: possui números<br>
+          - Contínuas(float): valores do conjunto dos reais como idade, altura, peso<br>
+          - Discretas(int): valores do conjunto dos inteiros como quantidade de matérias na faculdade<br>
+      - Categóricas: possui letras<br>
+          - Nominais: valores não mensuráveis como gênero, cor dos cabelos<br>
+          - Ordinais: valores com ordenação como tamanho da camisa(P, M e G)<br>
 
 ## Outliers
 
