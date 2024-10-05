@@ -17,6 +17,7 @@
     - Categóricas: possui letras
         - Nominais: valores não mensuráveis como gênero, cor dos cabelos
         - Ordinais: valores com ordenação como tamanho da camisa(P, M e G)
+- Se substituirmos as categorias de variáveis categóricas por números teremos problemas com algoritmos de aprendizagem de máquina. O algoritmo tende a atribuir um peso para cada numeração. Por exemplo, em um sequência de zero até sete, o número sete teria um peso maior do que o zero, o que por sua vez pode não estar correto se estivéssemos trabalhando com a cor de roupas. As variáveis do tipo dummy são uma solução para este problema, uma vez que ela transforma uma variável categórica em vários outros atributos com valores 0 e 1 para cada um dos valores dos atributos.
 
 ## Outliers
 - Outliers são dados que se diferenciam drasticamente de todos os outros.
